@@ -1,3 +1,4 @@
+#[allow(unused)]
 pub fn min_cost(max_time: i32, edges: Vec<Vec<i32>>, passing_fees: Vec<i32>) -> i32 {
     let node_count = passing_fees.len();
     let max_time = max_time as usize;
