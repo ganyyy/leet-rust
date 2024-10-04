@@ -1,1 +1,1 @@
-mod lc2187_minimumTime;
+mod lc2187_minimum_time;
