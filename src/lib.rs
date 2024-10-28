@@ -4,6 +4,7 @@ mod l1800;
 mod l1900;
 mod l2000;
 mod l3100;
+mod l600;
 mod l800;
 
 pub fn add(left: u64, right: u64) -> u64 {
