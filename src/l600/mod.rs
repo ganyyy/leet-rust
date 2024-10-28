@@ -1,1 +1,2 @@
 mod lc684_find_redundant_connection;
+mod lc685_find_redundant_directed_connection;
