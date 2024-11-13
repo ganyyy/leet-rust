@@ -1,4 +1,5 @@
 mod lc3211_valid_strings;
+mod lc3249_count_good_nodes;
 mod lc3254_results_array;
 mod lc3258_count_k_constraint_substrings;
 mod lc3261_count_k_constraint_substrings;
