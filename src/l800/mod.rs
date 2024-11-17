@@ -1,1 +1,1 @@
-mod lc971_min_refuel_stops;
+mod lc825_num_friend_requests;
