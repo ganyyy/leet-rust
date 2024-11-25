@@ -1,6 +1,8 @@
+#[allow(unused)]
 struct Solution;
 
 impl Solution {
+    #[allow(unused)]
     pub fn count_k_constraint_substrings(s: String, k: i32) -> i32 {
         let mut count = vec![0; 2];
         let mut left = 0usize;
