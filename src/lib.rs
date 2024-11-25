@@ -6,6 +6,7 @@ mod l2000;
 mod l3100;
 mod l3200;
 mod l600;
+mod l700;
 mod l800;
 mod l900;
 
