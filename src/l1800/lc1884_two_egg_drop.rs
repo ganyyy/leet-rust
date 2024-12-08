@@ -1,6 +1,6 @@
-use once_cell::sync::Lazy;
+use std::sync::LazyLock;
 
-static GLOBAL_DROP_DP: Lazy<[i32; 1001]> = Lazy::new(|| {
+static GLOBAL_DROP_DP: LazyLock<[i32; 1001]> = LazyLock::new(|| {
     let mut drop_dp = [0; 1001];
 
     (1..=1000i32).for_each(|i| {

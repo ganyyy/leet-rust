@@ -1,1 +1,2 @@
 mod l743_network_delay_time;
+mod lc782_moves_to_chessboard;
