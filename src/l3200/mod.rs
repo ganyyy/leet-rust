@@ -6,3 +6,4 @@ mod lc3261_count_k_constraint_substrings;
 mod lc3264_get_final_state;
 mod lc3280_number_of_alternating_groups;
 mod lc3291_min_valid_strings;
+mod lc3297_valid_substring_count;
