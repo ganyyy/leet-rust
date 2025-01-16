@@ -12,6 +12,7 @@ mod l700;
 mod l800;
 mod l900;
 mod lc0;
+mod lc3000;
 
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
