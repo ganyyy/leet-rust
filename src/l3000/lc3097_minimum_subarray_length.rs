@@ -42,11 +42,7 @@ pub fn minimum_subarray_length(nums: Vec<i32>, k: i32) -> i32 {
         }
     });
 
-    if ret == i32::MAX {
-        -1
-    } else {
-        ret
-    }
+    if ret == i32::MAX { -1 } else { ret }
 }
 
 pub fn minimum_subarray_length2(mut nums: Vec<i32>, k: i32) -> i32 {
@@ -69,9 +65,5 @@ pub fn minimum_subarray_length2(mut nums: Vec<i32>, k: i32) -> i32 {
             }
         }
     }
-    if ans == usize::MAX {
-        -1
-    } else {
-        ans as _
-    }
+    if ans == usize::MAX { -1 } else { ans as _ }
 }

@@ -1,1 +1,1 @@
-mod lc2187_minimum_time;
+mod lc2070_maximum_beauty;
