@@ -49,6 +49,14 @@ impl Solution {
             _ => None,
         }
     }
+
+    fn fold(str: String) -> bool {
+        let mut flag = -1;
+        str.as_bytes().iter().fold(0, |v, c| {
+            flag *= -1;
+            v + flag * (*c as i32 - 'a' as i32)
+        }) == 0
+    }
 }
 
 pub struct Solution;
