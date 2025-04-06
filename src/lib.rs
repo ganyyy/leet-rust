@@ -9,6 +9,7 @@ mod l2200;
 mod l2300;
 mod l2700;
 mod l2900;
+mod l300;
 mod l3000;
 mod l3100;
 mod l3200;
