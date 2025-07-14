@@ -1,3 +1,4 @@
+mod lc3136_is_valid;
 mod lc3162_number_of_pairs;
 mod lc3164_number_of_pairs;
 mod lc3169_count_day;
