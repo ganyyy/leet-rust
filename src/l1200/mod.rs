@@ -1,1 +1,2 @@
+mod lc1233_remove_sub_folders;
 mod lc1290_get_decimal_value;
