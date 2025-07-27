@@ -1,1 +1,2 @@
+mod lc2044_count_max_or_subsets;
 mod lc2070_maximum_beauty;
