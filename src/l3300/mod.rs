@@ -1,3 +1,4 @@
 mod lc3305_count_of_substrings;
 mod lc3341_min_time_to_reach;
 mod lc3362_max_removal;
+mod lc3363_max_collected_fruits;
