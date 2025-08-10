@@ -1,2 +1,3 @@
 mod lc2410_match_players_and_trainers;
 mod lc2411_smallest_subarrays;
+mod lc2438_product_queries;
