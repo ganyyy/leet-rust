@@ -1,1 +1,2 @@
-mod l2711_difference_of_distinct_values;
+mod lc2711_difference_of_distinct_values;
+mod lc2787_number_of_ways;
