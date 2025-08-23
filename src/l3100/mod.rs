@@ -7,3 +7,4 @@ mod lc3175_find_winning_player;
 mod lc3184_count_complete_day_pairs;
 mod lc3191_min_operations;
 mod lc3194_minimum_average;
+mod lc3195_minimum_area;
