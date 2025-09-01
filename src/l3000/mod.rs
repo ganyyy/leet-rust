@@ -1,1 +1,2 @@
+mod lc3025_number_of_pairs;
 mod lc3097_minimum_subarray_length;
