@@ -1,1 +1,2 @@
+mod lc2327_people_aware_of_secret;
 mod lc2360_longest_cycle;
